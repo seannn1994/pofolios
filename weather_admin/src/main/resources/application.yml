@@ -1,3 +1,7 @@
+server:
+  port: 8080
+  address: 0.0.0.0
+
 weather:
   api:
-   key: your-api-key-here
+   key: 787554fdc5e14f88b38130449240312

@@ -17,4 +17,6 @@ public class WeatherConfig {
     public WebClient.Builder webClientBuilder() {
         return WebClient.builder();
     }
+
+
 }
